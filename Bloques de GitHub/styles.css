@@ -63,4 +63,8 @@ h1 {
 }
 img {
     margin: 20px;
+    height: 200px;
+}
+a {
+    color: aqua;
 }
